@@ -1,12 +1,224 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B3BC1-B751-8C22-1B6A-FC5DE89BC35B}|HRManagment.WebAPI\\HRManagment.WebAPI.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B3BC1-B751-8C22-1B6A-FC5DE89BC35B}|HRManagment.WebAPI\\HRManagment.WebAPI.csproj|solutionrelative:hrmanagment.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\changepasswordcommand\\changepasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\changepasswordcommand\\changepasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\changepasswordcommand\\changepasswordcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\changepasswordcommand\\changepasswordcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\changepasswordcommand\\changepasswordcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\changepasswordcommand\\changepasswordcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\changepasswordcommand\\changepasswordcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\changepasswordcommand\\changepasswordcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\deleteusercommand\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\deleteusercommand\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\deleteusercommand\\deleteusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\deleteusercommand\\deleteusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\deleteusercommand\\deleteusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\deleteusercommand\\deleteusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\updateusercommand\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\updateusercommand\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\updateusercommand\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\updateusercommand\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\updateusercommand\\updateusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\updateusercommand\\updateusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|d:\\projects\\github projects\\hr-managment\\hrmanagment\\hrmanagment.application\\features\\user\\command\\updateusercommand\\updateusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ADBDDE-9736-6643-FF6D-2A35BE56BB6D}|HRManagment.Application\\HRManagment.Application.csproj|solutionrelative:hrmanagment.application\\features\\user\\command\\updateusercommand\\updateusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePasswordCommandHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandHandler.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandHandler.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandHandler.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:40:19.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePasswordCommandValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandValidator.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandValidator.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandValidator.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:40:13.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePasswordCommandResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandResponse.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandResponse.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandResponse.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:40:05.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangePasswordCommandRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandRequest.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandRequest.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandRequest.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\ChangePasswordCommand\\ChangePasswordCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:39:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HRManagment.WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HRManagment.WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwDEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:21:40.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandHandler.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:35:07.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteUserCommandResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandResponse.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandResponse.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:33:00.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteUserCommandRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandRequest.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandRequest.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\DeleteUserCommand\\DeleteUserCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:32:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandHandler.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:20:46.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateUserCommandValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandValidator.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandValidator.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:20:21.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateUserCommandResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandResponse.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandResponse.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:19:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUserCommandRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandRequest.cs",
+              "ToolTip": "D:\\Projects\\Github Projects\\HR-Managment\\HRManagment\\HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandRequest.cs",
+              "RelativeToolTip": "HRManagment.Application\\Features\\User\\Command\\UpdateUserCommand\\UpdateUserCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:00:17.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
